@@ -1,0 +1,10 @@
+Streamlit
+Pandas
+NumPy
+Scikit-learn
+TensorFlow 
+Keras
+Statsmodels
+Matplotlib
+yfinance
+NLTK
